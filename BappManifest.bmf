@@ -1,6 +1,7 @@
 Uuid: 9ff11c976383491b976389ce23091ee3
 ExtensionType: 2
 Name: SAML Encoder / Decoder
+RepoName: saml-encoder-decoder
 ScreenVersion: 1.1
 SerialVersion: 2
 MinPlatformVersion: 0
